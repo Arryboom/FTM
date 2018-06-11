@@ -1,4 +1,4 @@
-#FileTimeModifier Version 1.2
+# FileTimeModifier Version 1.2
 devloped with E Language,Source file ftm.e.
 ## 
 -p   Path to the File or Dir where need to modify timestamp  
