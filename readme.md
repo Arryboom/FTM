@@ -1,16 +1,16 @@
 #FileTimeModifier Version 1.2
 
 ## 
--p   Path to the File or Dir where need to modify timestamp
--t   Specfic File Time you want,without this param will be Random
--nd  Don't Include Sub Directory
--od  Include Sub Directory and file in it,No Recursion
--rd  Include Recursion Sub Directory and file in it
--ct  Modify Creation Time
--mt  Modify Modifiction Time
--at  Modify Access Time
--utc This use the time you input or random generated time as UTC time
--v   Print all new filename and timestamp to screen after finished
+-p   Path to the File or Dir where need to modify timestamp  
+-t   Specfic File Time you want,without this param will be Random  
+-nd  Don't Include Sub Directory  
+-od  Include Sub Directory and file in it,No Recursion  
+-rd  Include Recursion Sub Directory and file in it  
+-ct  Modify Creation Time  
+-mt  Modify Modifiction Time  
+-at  Modify Access Time  
+-utc This use the time you input or random generated time as UTC time  
+-v   Print all new filename and timestamp to screen after finished  
 ## 
 ## example:
 ftm -p 'd:\file\' -v
@@ -27,7 +27,7 @@ ftm -p 'd:\file\doc.txt' -t '1982-01-01' -ct
 > this will modify the creation time of doc.txt to '1982-01-01'
 
 Time Format:
->current accepted these time format below.
+>current accepted these time format below.  
 1973/11/15 12:30:25
 1973/11/15/12/30/25
 1973/11/15/12:30:25
