@@ -1,4 +1,5 @@
 # FileTimeModifier Version 1.2
+![ICON](https://github.com/Arryboom/FTM/blob/master/clock_93.613766730402px_1159590.png)  
 devloped with E Language,Source file ftm.e.
 ## 
 -p   Path to the File or Dir where need to modify timestamp  
