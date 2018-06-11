@@ -1,5 +1,5 @@
 #FileTimeModifier Version 1.2
-
+devloped with E Language,Source file ftm.e.
 ## 
 -p   Path to the File or Dir where need to modify timestamp  
 -t   Specfic File Time you want,without this param will be Random  
@@ -28,10 +28,21 @@ ftm -p 'd:\file\doc.txt' -t '1982-01-01' -ct
 
 Time Format:
 >current accepted these time format below.  
-1973/11/15 12:30:25
-1973/11/15/12/30/25
-1973/11/15/12:30:25
-1973-11-15-12-30-25
-1973-11-15-12:30:25
-1973.11.15 12:30:25
-19731115123025
+1973/11/15 12:30:25  
+1973/11/15/12/30/25  
+1973/11/15/12:30:25  
+1973-11-15-12-30-25  
+1973-11-15-12:30:25  
+1973.11.15 12:30:25  
+19731115123025  
+
+## Version
+
+File: Z:\FTM\ftm.exe  
+Size: 927232 bytes  
+File Version: 1.2.0.0  
+Modified: 2018-06-11, 15:58:42  
+MD5: 0403366845114980BAACA949312E9BAF  
+SHA1: C746CC17B825373E4E5A1FE06466F877C463912B  
+CRC32: FBD678E4  
+
