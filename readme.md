@@ -2,16 +2,19 @@
 ![ICON](https://github.com/Arryboom/FTM/blob/master/clock_93.613766730402px_1159590.png)  
 devloped with E Language,Source file ftm.e.
 ## 
--p   Path to the File or Dir where need to modify timestamp  
--t   Specfic File Time you want,without this param will be Random  
--nd  Don't Include Sub Directory  
--od  Include Sub Directory and file in it,No Recursion  
--rd  Include Recursion Sub Directory and file in it  
--ct  Modify Creation Time  
--mt  Modify Modifiction Time  
--at  Modify Access Time  
--utc This use the time you input or random generated time as UTC time  
--v   Print all new filename and timestamp to screen after finished  
+|     Param      | Means                                       |
+| :----------: | ---------------------------------------- |
+|   -p   | Path to the File or Dir where need to modify timestamp  |
+| -t | Specfic File Time you want,without this param will be Random |
+| -nd | Don't Include Sub Directory |
+| -od | Include Sub Directory and file in it,No Recursion |
+| -rd | Include Recursion Sub Directory and file in it    |
+| -ct | Modify Creation Time |
+| -mt | Modify Modifiction Time |
+| -at | Modify Access Time  |
+| -utc | This use the time you input or random generated time as UTC time |
+| -v | Print all new filename and timestamp to screen after finished  |
+| -h | HelpText  |
 ## 
 ## example:
 ftm -p 'd:\file\' -v
