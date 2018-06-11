@@ -38,11 +38,20 @@ Time Format:
 
 ## Version
 
-File: Z:\FTM\ftm.exe  
+File: ftm.exe  
 Size: 927232 bytes  
 File Version: 1.2.0.0  
-Modified: 2018-06-11, 15:58:42  
+Modified: 2018-06-11,15:58:42  
 MD5: 0403366845114980BAACA949312E9BAF  
 SHA1: C746CC17B825373E4E5A1FE06466F877C463912B  
 CRC32: FBD678E4  
 
+File: ftm_upx.exe  
+Size: 413696 bytes  
+File Version: 1.2.0.0  
+Modified: 2018-06-11,15:58:42  
+MD5: BC71CAFAEB08E24AEACA331BD4DA68FD  
+SHA1: B5863A8208CD8A0E6F898E792AC5920DB2CFED5D  
+CRC32: 936AE9D5  
+
+>ftm_upx.exe was compressed by UPX packer. 
