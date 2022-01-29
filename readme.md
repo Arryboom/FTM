@@ -17,11 +17,11 @@ devloped with E Language,Source file ftm.e.
 | -h | HelpText  |
 ## 
 ## example:
-ftm -p 'd:\file\' -v
+ftm -p 'd:\directory\' -v
 
 
 > this will give a random timestamp from 1970-01-01 to 2100-01-01
- to all creation,modifiction,access time for all file or dir in d:\file\
+ to all creation,modifiction,access time for all file or dir in d:\directory\
  
 ftm -p 'd:\file\doc.txt' -t '1982-01-01' 
 > this will modify the creation,modfied,access time of doc.txt to 
